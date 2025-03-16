@@ -1,1 +1,2 @@
-# seminario_python2025
+# Constanza Krmpotic
+# legajo: 26666/9
